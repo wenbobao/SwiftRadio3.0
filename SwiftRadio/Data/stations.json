@@ -1,0 +1,33 @@
+{
+    "station":
+    [
+     {
+     "name": "雨衣",
+     "streamURL": "http://m2.music.126.net/m3g85DyHg4Z_C31mwFufkA==/1087416999879140.mp3",
+     "imageURL": "http://p3.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+     "desc": "Midsized Record Label",
+     "longDesc": "Sub Pop is a record label founded in 1986 by Bruce Pavitt. In 1988, Sub Pop Records LLC was formed by Bruce Pavitt and Jonathan Poneman in Seattle, Washington. Sub Pop achieved fame in the late 1980s for first signing Nirvana, Soundgarden, Mudhoney and many other bands from the Seattle alternative rock scene."
+     },
+     {
+     "name": "遇见",
+     "streamURL": "http://m2.music.126.net/NqeTNTGHnEji0XaqXekZ6w==/2086873069547587.mp3",
+     "imageURL": "http://p3.music.126.net/HdwauO9Mq79_ZFtGcqUK1A==/18599338696849824.jpg",
+     "desc": "Totally Rad",
+     "longDesc": "80s Baby! The '80s is not about nostalgia; it is about a decade of people, decisions and inventions that changed our future, told from the perspective of unknowing history makers who lived these iconic moments."
+     },
+     {
+     "name": "Moon Without The Stars",
+     "streamURL": "http://m2.music.126.net/t24d6GoZRkqxzFAovlZEQw==/6027522743661760.mp3",
+     "imageURL": "station-killrockstars",
+     "desc": "Alt Record Label",
+     "longDesc": "KRS was started in 1991 by Slim Moon, who ran the company until October 2006, when he left to become Senior Director of A&R at Nonesuch Records. We at KRS want to thank Slim for creating such an amazing record label and putting out albums that were important in all our lives. Slim rules!"
+     },
+     {
+     "name": "完美落地",
+     "streamURL": "http://m2.music.126.net/cYlUtEbEvgypSh-CVEapUQ==/5742749231919930.mp3",
+     "imageURL": "",
+     "desc": "KVCU - Boulder, CO",
+     "longDesc": "Radio 1190 is the bomb."
+     }
+    ]
+}
